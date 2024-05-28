@@ -1,0 +1,39 @@
+-----------------------------------------------------
+--------------------Directory Watcher----------------
+-----------------------------------------------------
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (10).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (11).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (12).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (13).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (14).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (15).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (2).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (3).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (4).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (5).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (6).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (7).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (8).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy (9).txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy - Copy.txt
+File deleted : abcde - Copy - Copy - Copy - Copy - Copy.txt
+File deleted : abcde - Copy - Copy - Copy - Copy.txt
+File deleted : abcde - Copy - Copy - Copy.txt
+File deleted : abcde - Copy - Copy.txt
+File deleted : abcde - Copy.txt
+File deleted : abcde.txt
+Numbers of file deleted : 21
+Time required to exicute : 0.0059816837310791016
+-----------------------------------------------------
+----------Thank you for using our script-------------
+------------------Akshay Jore------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+--------------------Directory Watcher----------------
+-----------------------------------------------------
+Numbers of file deleted : 0
+Time required to exicute : 0.000997304916381836
+-----------------------------------------------------
+----------Thank you for using our script-------------
+------------------Akshay Jore------------------------
+-----------------------------------------------------
